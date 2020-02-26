@@ -124,7 +124,7 @@ GEM
     mynyml-redgreen (0.7.1)
       term-ansicolor (>= 1.0.4)
     nio4r (2.3.1)
-    nokogiri (1.10.2)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
     paperclip (6.1.0)
